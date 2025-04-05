@@ -9,3 +9,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Traffic {
+    max-width: 110px;
+    justify-self: center;
+    
+}
